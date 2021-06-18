@@ -1,6 +1,6 @@
-# ReactJS For Students
+# Essential Commands
 
-This repository contains React related things that I use while teaching my students.
+There are some commands that are essential when creating a new react project. I have put the common ones I use here.
 
 - Also read [DeveloperTips.md](DeveloperTips.md)
 - Also read [DeveloperThoughts.md](DeveloperThoughts.md)
@@ -8,13 +8,36 @@ This repository contains React related things that I use while teaching my stude
 - Also read [BootstrapNotes.md](BootstrapNotes.md)
 - Also read [AttachingRedux.md](AttachingRedux.md)
 - Also read [EssentialCommands.md](EssentialCommands.md)
+- Go back to [README.md](README.md)
 
-Live Sites [Available here](Deployments.md).
+# The commands
 
-# Projects
+    npx create-react-app my-app
 
-1. [core5reactchapter2frontend](core5reactchapter2frontend)
-1. [smkgallery](smkgallery)
+    yarn create react-app my-app --template typescript
+
+    npm install react-hook-form
+
+    npm i react-dom
+
+    npm i react-router-dom
+
+    npm i history
+
+    npm i react-redux
+
+    npm i redux
+
+    npm install @types/react-redux --save-dev
+
+    npm install react-bootstrap bootstrap@4.6.0
+
+# Essential Libraries
+
+1. https://github.com/brillout/awesome-react-components
+1. https://github.com/xiaolin/react-image-gallery
+1. https://github.com/rcaferati/react-awesome-slider
+1. https://ionicframework.com/blog/announcing-ionic-react/
 
 # Hire Me
 
